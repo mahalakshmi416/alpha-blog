@@ -1,6 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
+This README would normally document cwhatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+*This is the repository for the first alpha-blog app of the complete ruby on rails developer course 
