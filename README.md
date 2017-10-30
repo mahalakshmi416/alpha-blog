@@ -21,6 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* This is the repository for the first alpha-blog app of the complete ruby on rails developer course 
 
-*This is the repository for the first alpha-blog app of the complete ruby on rails developer course 
+* ....
